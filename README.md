@@ -1,4 +1,4 @@
- # Football-Login :fire:
+ # Smart :fire:
 ## Khaled Al Nabaheen.. :bust_in_silhouette:
 
 Student At KYTC College...
@@ -13,4 +13,4 @@ To see the project [Click here](https://smart-project.netlify.app)
 
 ### Image for the project :rose:
 
-<img src ="img/smartmockups_kvjqa5ng.jpg" width="270px" heighet="270px">
+<img src ="img/smartmockups_kvmr8ck2.jpg" width="270px" heighet="270px">
